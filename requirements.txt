@@ -1,1 +1,11 @@
+ultralytics
+torch
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+fastapi
+uvicorn
+pillow
 
